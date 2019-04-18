@@ -1,0 +1,55 @@
+﻿p {
+	color:	#006400; /*cor da letra */
+	font-family: "Segoe UI Symbol";
+	font-size: 18px; /*tamanho da fonte*/
+	text-align: center; /*alinhamento do texto*/
+    line-height: 30px;  /*altura da linha*/
+	letter-spacing: 1px; /*tamanho do espaço entre cada letra */
+	word-spacing: 3px;  /*espaço entre cada palavra */
+}
+
+
+html {
+
+
+background-color: gray;
+}
+
+h1 {
+	text-align: center;
+	font-size: 48px;
+}
+
+h5 {
+	text-align: center;
+	font-size: 16px;
+}
+
+img {
+
+	width: 200px;
+
+}
+
+footer{
+	text-align: center;
+	position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+#a {
+	position: absolute; 
+	left: 930px; /* posiciona a 90px para a esquerda */ 
+}
+#imgss {
+	position: absolute; 
+	left: 590px; /* posiciona a 90px para a esquerda */ 
+	top: 250px; /* posiciona a 70px para baixo */
+	}
+
+#imgs {
+	position: absolute; 
+	left: 850px; /* posiciona a 90px para a esquerda */ 
+	top: 250px; /* posiciona a 70px para baixo */
+	}
